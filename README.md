@@ -207,7 +207,7 @@ MIT License — Veja `LICENSE` para detalhes.
 **Gustavo Pereira**
 
 - GitHub: [@Pereira-gu](https://github.com/Pereira-gu)
-- LinkedIn: [Gustavo dos Santos Pereira](https://linkedin.com/in/gustavo-pereira-ds)
+- LinkedIn: [Gustavo dos Santos Pereira](https://linkedin.com/in/gustavospereira-dev)
 
 ---
 
